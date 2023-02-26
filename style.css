@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    text-align: center;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family:'Sacramento', cursive;
+    font-size: 5.25rem;
+    color: #66BFBF;
+ 
+}
+
+hr{
+   border-style: none;
+   width: 20%;
+   border-top:5px #798181 dotted;
+   
+}
+
+h2{
+    font-family: 'Montserrat',monospace;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: 600;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', monospace;
+}
+
+
+p{
+    font-family: 'Merriweather', sans-serif;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: rgb(210, 238, 247);
+}
+
+
+
+.profile span{
+    color:#11999E;
+    font-weight: 900;
+    font-family: 'Montserrat';
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+      
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 500px;
+    bottom: 300px;
+
+
+}
+
+a{
+    color: #11999E;
+}
+
+.mountain{
+
+}
+
+.middle-container{
+  
+}
+
+.bottom-container{
+   
+}
+
+
+.skills{
+    margin-top: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    
+    margin:100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.Design{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.Problem{
+    width: 25%;
+    float: right;
+    margin-left: 25px;
+}
+
+.profile{
+    margin-top: 100px;
+    line-height: 2;
+    width: 50%;
+    margin:100px auto 100px auto;
+}
+
+.contact-me{
+    margin-top: 50px;
+}
+
+.img-contact{
+    margin-top: 100px;
+}
+
+.contact-me{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+.btn{
+     margin-top: 20px;
+    padding: 10px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+
+}
+
+.bottom-container,a{
+    margin-top: 100px;
+    color: white;
+    background-color: #11999E;
+    font-family: 'Montserrat';
+    height: 100px;
+    line-height: 2;
+}
+
+.footer-link{
+    position: relative;
+    top: 20px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.bottom-container p{
+    position: relative;
+    top: 20px;  
+}
+
+
+
